@@ -1,0 +1,22 @@
+body{
+    background: rgb(0, 0, 0);
+}
+
+.line{
+    text-decoration: line-through;
+}
+.add-btn{
+    background: yellow;
+    color: #000;
+    margin-left: 30%;
+    width: 150px;
+
+}
+
+.block {
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    background: rgb(169, 116, 28);
+    border-radius: 8px;
+}
